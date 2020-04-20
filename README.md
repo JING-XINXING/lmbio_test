@@ -1,2 +1,1 @@
-# lmbio_test
-lumingbio test repository
+# The lumingbio code test repository 

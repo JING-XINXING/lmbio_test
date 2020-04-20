@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+cp /public/hstore5/proteome/pipeline/script/project_r_plotting/Acetylat_Labelfree_R_Plotting.R ./;cp /public/hstore5/proteome/pipeline/script/project_r_plotting/runacet_labelfree_plotting.sh ./;bash runacet_labelfree_plotting.sh

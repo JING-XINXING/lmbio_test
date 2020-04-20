@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+cp /public/hstore5/proteome/pipeline/script/project_r_plotting/venn_plot.R ./;cp /public/hstore5/proteome/pipeline/script/project_r_plotting/runvennplot.sh ./;sh runvennplot.sh

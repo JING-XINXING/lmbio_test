@@ -1,0 +1,11 @@
+#!/bin/bash
+echo "蛋白项目分析流程脚本流程更新时间："
+date +%F
+## RUNP1
+cp RUNP1 pipeline_p1.sh
+## RUNP2
+cp RUNP2 pipeline_p2.sh
+## RUNP3
+cp RUNP3 pipeline_p3.sh
+echo
+echo "蛋白项目分析流程脚本更新完成！"

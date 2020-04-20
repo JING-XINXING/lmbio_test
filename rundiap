@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+cp /public/hstore5/proteome/pipeline/script/project_r_plotting/plotting_dia.R ./;cp /public/hstore5/proteome/pipeline/script/project_r_plotting/runplotting_dia.sh ./;bash runplotting_dia.sh
